@@ -1,6 +1,7 @@
 #hashtag for comments
 #add files in here to have git ignore
 tempfile.txt
+tempfile2.txt
 .DS_Store
 *.zip
 *.gz
