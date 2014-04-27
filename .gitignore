@@ -1,0 +1,15 @@
+#hashtag for comments
+#add files in here to have git ignore
+tempfile.txt
+.DS_Store
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+assets/photoshop/
+
+#ignore everything in vide folder
+assets/videos/
+
+#except dont ignore mp4 files
+!aasets/videos/tour_*.mp4
